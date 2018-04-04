@@ -15,3 +15,6 @@ let arr = [1,2,3,31]
 arr.map(item=>{
     console.log(item)
 })
+for (let index = 0; index < arr.length; index++) {
+    console.log(arr[index])
+}
