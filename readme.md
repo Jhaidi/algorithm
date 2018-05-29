@@ -7,4 +7,5 @@ map、for循环
 
 ## [test-1/算法1](https://github.com/Jhaidi/studyAlgorithm/tree/master/test-1/算法1/algorithm-1.js)
 
+test add
 **js 基础算法题目 及答案**
