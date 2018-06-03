@@ -9,3 +9,7 @@ map、for循环
 
 test add
 **js 基础算法题目 及答案**
+
+## ssh文件操作以及如何在服务器上安装node
+
+[readme](https://github.com/Jhaidi/studyAlgorithm/blob/master/Note/ssh.md)
